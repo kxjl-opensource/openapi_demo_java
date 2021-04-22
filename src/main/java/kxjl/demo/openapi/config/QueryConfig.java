@@ -3,13 +3,10 @@ package kxjl.demo.openapi.config;
 import com.alibaba.fastjson.JSONObject;
 import kxjl.demo.openapi.auth.Auth;
 import kxjl.demo.openapi.util.Fhc;
-import org.apache.http.client.fluent.Request;
 import org.apache.http.client.fluent.Response;
-import org.apache.http.entity.ContentType;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
-import java.util.Queue;
 
 public class QueryConfig {
 

@@ -3,9 +3,7 @@ package kxjl.demo.openapi.auth;
 import com.alibaba.fastjson.JSONObject;
 import com.alibaba.fastjson.JSONPath;
 import kxjl.demo.openapi.util.Fhc;
-import org.apache.http.client.fluent.Request;
 import org.apache.http.client.fluent.Response;
-import org.apache.http.entity.ContentType;
 
 import java.io.IOException;
 
