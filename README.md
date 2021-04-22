@@ -1,5 +1,4 @@
-# yeta开放平台JavaDemo
-
-目前此Demo实现了对开放平台OPENAPI调用示例。
-
-详细功能请参考开发平台文档 https://github.com/kxjl-ai-yeta/openapi_doc
+- Auth展示了如何获取token
+- QueryConfig展示了如何查询配置
+- Callout展示了直接外呼的使用方式
+- Task展示了对外呼任务的操作
